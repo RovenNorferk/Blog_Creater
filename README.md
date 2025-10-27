@@ -136,7 +136,7 @@ The frontend provides a simple interface for user and post management:
 ![Streamlit Frontend](Frontend-Streamlit.png)
 
 ### FastAPI Swagger UI (API Documentation)
-![FastAPI Swagger UI](https://i.imgur.com/YourSwaggerImageLinkHere.png)
+![FastAPI Swagger UI](Backend-API.png)
 
 ## License
 
